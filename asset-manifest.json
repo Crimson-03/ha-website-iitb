@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ha-website-iitb/static/css/main.9e61225c.css",
-    "main.js": "/ha-website-iitb/static/js/main.9520a0eb.js",
+    "main.js": "/ha-website-iitb/static/js/main.73d9fe0c.js",
     "index.html": "/ha-website-iitb/index.html",
     "main.9e61225c.css.map": "/ha-website-iitb/static/css/main.9e61225c.css.map",
-    "main.9520a0eb.js.map": "/ha-website-iitb/static/js/main.9520a0eb.js.map"
+    "main.73d9fe0c.js.map": "/ha-website-iitb/static/js/main.73d9fe0c.js.map"
   },
   "entrypoints": [
     "static/css/main.9e61225c.css",
-    "static/js/main.9520a0eb.js"
+    "static/js/main.73d9fe0c.js"
   ]
 }
