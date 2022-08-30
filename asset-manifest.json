@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ha-website-iitb/static/css/main.9e61225c.css",
+    "main.js": "/ha-website-iitb/static/js/main.ffd3a7cb.js",
+    "index.html": "/ha-website-iitb/index.html",
+    "main.9e61225c.css.map": "/ha-website-iitb/static/css/main.9e61225c.css.map",
+    "main.ffd3a7cb.js.map": "/ha-website-iitb/static/js/main.ffd3a7cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e61225c.css",
+    "static/js/main.ffd3a7cb.js"
+  ]
+}
